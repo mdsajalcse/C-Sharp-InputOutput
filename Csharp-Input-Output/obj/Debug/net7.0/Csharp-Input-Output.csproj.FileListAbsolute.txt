@@ -1,0 +1,15 @@
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\bin\Debug\net7.0\Csharp-Input-Output.exe
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\bin\Debug\net7.0\Csharp-Input-Output.deps.json
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\bin\Debug\net7.0\Csharp-Input-Output.runtimeconfig.json
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\bin\Debug\net7.0\Csharp-Input-Output.dll
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\bin\Debug\net7.0\Csharp-Input-Output.pdb
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.csproj.AssemblyReference.cache
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.AssemblyInfoInputs.cache
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.AssemblyInfo.cs
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.csproj.CoreCompileInputs.cache
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.dll
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\refint\Csharp-Input-Output.dll
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.pdb
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\Csharp-Input-Output.genruntimeconfig.cache
+D:\C-Sharp-InputOutput\Csharp-Input-Output\Csharp-Input-Output\obj\Debug\net7.0\ref\Csharp-Input-Output.dll
