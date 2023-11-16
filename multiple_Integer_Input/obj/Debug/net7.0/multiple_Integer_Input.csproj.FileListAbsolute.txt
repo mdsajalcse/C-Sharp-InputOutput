@@ -1,0 +1,15 @@
+F:\C-Sharp-InputOutput\multiple_Integer_Input\bin\Debug\net7.0\multiple_Integer_Input.exe
+F:\C-Sharp-InputOutput\multiple_Integer_Input\bin\Debug\net7.0\multiple_Integer_Input.deps.json
+F:\C-Sharp-InputOutput\multiple_Integer_Input\bin\Debug\net7.0\multiple_Integer_Input.runtimeconfig.json
+F:\C-Sharp-InputOutput\multiple_Integer_Input\bin\Debug\net7.0\multiple_Integer_Input.dll
+F:\C-Sharp-InputOutput\multiple_Integer_Input\bin\Debug\net7.0\multiple_Integer_Input.pdb
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.csproj.AssemblyReference.cache
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.AssemblyInfoInputs.cache
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.AssemblyInfo.cs
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.csproj.CoreCompileInputs.cache
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.dll
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\refint\multiple_Integer_Input.dll
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.pdb
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\multiple_Integer_Input.genruntimeconfig.cache
+F:\C-Sharp-InputOutput\multiple_Integer_Input\obj\Debug\net7.0\ref\multiple_Integer_Input.dll

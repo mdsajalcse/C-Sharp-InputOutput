@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C-Sharp-InputOutput\\Csharp-Input-Output\\Csharp-Input-Output.csproj",
-      "projectName": "Csharp-Input-Output",
-      "projectPath": "F:\\C-Sharp-InputOutput\\Csharp-Input-Output\\Csharp-Input-Output.csproj",
+      "projectUniqueName": "F:\\C-Sharp-InputOutput\\multiple_Integer_Input\\multiple_Integer_Input.csproj",
+      "projectName": "multiple_Integer_Input",
+      "projectPath": "F:\\C-Sharp-InputOutput\\multiple_Integer_Input\\multiple_Integer_Input.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\C-Sharp-InputOutput\\Csharp-Input-Output\\obj\\",
+      "outputPath": "F:\\C-Sharp-InputOutput\\multiple_Integer_Input\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
